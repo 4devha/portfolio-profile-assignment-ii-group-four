@@ -1,0 +1,58 @@
+body{
+    /*background-image: url(../protofolio/back.png);*/
+}
+
+hr.one{
+    background-color: black;
+    margin-top: 8px;
+    height: 6px;
+}
+p.para{
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    padding-left: 190px;
+    
+    
+}
+div.image{
+    background-image: url()
+}
+
+p.ftr1{
+    text-align: left;
+    color: rgba(255, 255, 255, 0.288);
+   
+    text-align: center;
+    
+}
+#footer{
+    background-color: black;
+    height: 90px;
+}
+.hr1{
+    background-color: gray;
+    width: 600px;
+    text-align: center;
+}
+
+hr.two{
+width: 100%;
+
+
+}
+a{
+    float: right;
+    text-decoration: none;
+    margin-right: 100px;
+    font-size: 12px;
+    margin-bottom: 20px;
+    font-style: bold;
+}
+img{
+    width: 900px;
+    height: 260px;
+    
+}
+ul li a{
+    text-decoration: none;
+}
