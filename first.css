@@ -1,11 +1,15 @@
 body{
+    margin: 0px;
+    padding: 0px;
     /*background-image: url(../protofolio/back.png);*/
 }
 
 hr.one{
     background-color: black;
     margin-top: 8px;
+    margin-bottom: 0px;
     height: 6px;
+    margin-bottom: 0%;
 }
 p.para{
     font-size: 14px;
@@ -15,7 +19,10 @@ p.para{
     
 }
 div.image{
-    background-image: url()
+    background-image: url("blur.png");
+  height: 300px;
+  border-top-style: solid;
+
 }
 
 p.ftr1{
@@ -37,6 +44,8 @@ p.ftr1{
 
 hr.two{
 width: 100%;
+margin-bottom:0%;
+padding: 0%;
 
 
 }
@@ -55,4 +64,13 @@ img{
 }
 ul li a{
     text-decoration: none;
+}
+.Center{
+  margin-left: 300px;
+float: left;
+}
+.mf{
+border-radius: 50%;
+    width: 10%;
+    height: 200px;
 }
